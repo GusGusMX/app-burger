@@ -1,0 +1,29 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+button {
+background-color: #53D36F;
+border-radius: 5px;
+width: 398px;
+height: 106px;
+
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, 'Chewy', serif;
+  font-size: 30px;
+  line-height: 62px;
+  width: 330px;
+  text-align: center;
+}
+img{
+  width:455px ;
+  height: 455px;
+  font-size:30px;
+  line-height: 80px;
+}
